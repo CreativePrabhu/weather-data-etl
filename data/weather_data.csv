@@ -1,0 +1,6 @@
+city,temperature,humidity,weather,wind_speed,timestamp
+Berlin,20.83,42,clear sky,1.79,2025-04-14T17:57:35.764518
+Berlin,20.68,50,clear sky,7.2,2025-05-27T16:27:51.764009
+Berlin,18.69,52,few clouds,5.14,2025-05-29T12:37:33.965409
+Berlin,18.71,52,few clouds,5.14,2025-05-29T12:37:51.277816
+Berlin,18.91,52,few clouds,7.15,2025-05-29T12:41:43.112641
